@@ -1,0 +1,2 @@
+# ai
+just basic ai
